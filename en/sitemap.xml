@@ -2,88 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://m-itconsult.github.io/en/posts/</loc>
-  </url><url>
-    <loc>https://m-itconsult.github.io/en/about/</loc>
-  </url><url>
-    <loc>https://m-itconsult.github.io/en/docs/anydesk/</loc>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2025-05-28T20:26:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/docs/anydesk/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://m-itconsult.github.io/en/docs/anydesk/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://m-itconsult.github.io/en/categories/</loc>
+    <loc>http://localhost:1313/en/posts/</loc>
+    <lastmod>2025-05-28T20:26:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/categories/"
+                href="http://localhost:1313/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://m-itconsult.github.io/en/categories/"
+                href="http://localhost:1313/en/posts/"
                 />
   </url><url>
-    <loc>https://m-itconsult.github.io/en/certifications/</loc>
+    <loc>http://localhost:1313/en/posts/test/</loc>
+    <lastmod>2025-05-28T20:26:41+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/certifications/"
+                href="http://localhost:1313/fr/posts/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://m-itconsult.github.io/en/certifications/"
+                href="http://localhost:1313/en/posts/test/"
                 />
   </url><url>
-    <loc>https://m-itconsult.github.io/en/docs/</loc>
+    <loc>http://localhost:1313/en/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/docs/anydesk/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/docs/"
+                href="http://localhost:1313/fr/docs/anydesk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://m-itconsult.github.io/en/docs/"
+                href="http://localhost:1313/en/docs/anydesk/"
                 />
   </url><url>
-    <loc>https://m-itconsult.github.io/en/projects/linux/</loc>
-  </url><url>
-    <loc>https://m-itconsult.github.io/en/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://m-itconsult.github.io/en/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://m-itconsult.github.io/en/projects/network/</loc>
-  </url><url>
-    <loc>https://m-itconsult.github.io/en/projects/</loc>
-  </url><url>
-    <loc>https://m-itconsult.github.io/en/docs/second_doc/</loc>
-  </url><url>
-    <loc>https://m-itconsult.github.io/en/tags/</loc>
+    <loc>http://localhost:1313/en/certifications/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/tags/"
+                href="http://localhost:1313/fr/certifications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://m-itconsult.github.io/en/tags/"
+                href="http://localhost:1313/en/certifications/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/docs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/docs/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/projects/linux/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/projects/network/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/docs/second_doc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
                 />
   </url>
 </urlset>
