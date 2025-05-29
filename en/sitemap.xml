@@ -2,44 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://m-itconsult.github.io/en/</loc>
-    <lastmod>2025-05-28T20:26:41+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://m-itconsult.github.io/en/"
-                />
-  </url><url>
     <loc>https://m-itconsult.github.io/en/posts/</loc>
-    <lastmod>2025-05-28T20:26:41+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://m-itconsult.github.io/en/posts/"
-                />
-  </url><url>
-    <loc>https://m-itconsult.github.io/en/posts/test/</loc>
-    <lastmod>2025-05-28T20:26:41+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/posts/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://m-itconsult.github.io/en/posts/test/"
-                />
   </url><url>
     <loc>https://m-itconsult.github.io/en/about/</loc>
   </url><url>
@@ -92,6 +55,18 @@
                 />
   </url><url>
     <loc>https://m-itconsult.github.io/en/projects/linux/</loc>
+  </url><url>
+    <loc>https://m-itconsult.github.io/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://m-itconsult.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-itconsult.github.io/en/"
+                />
   </url><url>
     <loc>https://m-itconsult.github.io/en/projects/network/</loc>
   </url><url>

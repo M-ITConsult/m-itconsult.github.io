@@ -2,45 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://m-itconsult.github.io/fr/</loc>
-    <lastmod>2025-05-28T20:26:41+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://m-itconsult.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/"
-                />
-  </url><url>
-    <loc>https://m-itconsult.github.io/fr/posts/</loc>
-    <lastmod>2025-05-28T20:26:41+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://m-itconsult.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/posts/"
-                />
-  </url><url>
-    <loc>https://m-itconsult.github.io/fr/posts/test/</loc>
-    <lastmod>2025-05-28T20:26:41+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://m-itconsult.github.io/en/posts/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/posts/test/"
-                />
-  </url><url>
     <loc>https://m-itconsult.github.io/fr/apropos/</loc>
   </url><url>
     <loc>https://m-itconsult.github.io/fr/docs/anydesk/</loc>
@@ -92,6 +53,18 @@
                 />
   </url><url>
     <loc>https://m-itconsult.github.io/fr/projets/linux/</loc>
+  </url><url>
+    <loc>https://m-itconsult.github.io/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-itconsult.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://m-itconsult.github.io/fr/"
+                />
   </url><url>
     <loc>https://m-itconsult.github.io/fr/projets/</loc>
   </url><url>
