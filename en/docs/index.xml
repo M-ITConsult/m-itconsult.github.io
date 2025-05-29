@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on M-ITConsult🧑‍💻</title>
-    <link>http://localhost:1313/en/docs/</link>
+    <link>https://m-itconsult.github.io/en/docs/</link>
     <description>Recent content in Docs on M-ITConsult🧑‍💻</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/en/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://m-itconsult.github.io/en/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anydesk</title>
-      <link>http://localhost:1313/en/docs/anydesk/</link>
+      <link>https://m-itconsult.github.io/en/docs/anydesk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/docs/anydesk/</guid>
+      <guid>https://m-itconsult.github.io/en/docs/anydesk/</guid>
       <description>&lt;h1 id=&#34;disable-screen-recording-dialog-with-anydesk-and-termux&#34;&gt;Disable Screen Recording Dialog with Anydesk and Termux&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Second Doc</title>
-      <link>http://localhost:1313/en/docs/second_doc/</link>
+      <link>https://m-itconsult.github.io/en/docs/second_doc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/docs/second_doc/</guid>
+      <guid>https://m-itconsult.github.io/en/docs/second_doc/</guid>
       <description></description>
     </item>
   </channel>
