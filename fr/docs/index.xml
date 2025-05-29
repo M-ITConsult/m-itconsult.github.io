@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on M-ITConsult🧑‍💻</title>
+    <link>https://m-itconsult.github.io/fr/docs/</link>
+    <description>Recent content in Docs on M-ITConsult🧑‍💻</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <atom:link href="https://m-itconsult.github.io/fr/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anydesk</title>
+      <link>https://m-itconsult.github.io/fr/docs/anydesk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://m-itconsult.github.io/fr/docs/anydesk/</guid>
+      <description>&lt;h1 id=&#34;désactivation-de-la-fenêtre-de-dialogue-commencez-avec-anydesk-et-termux&#34;&gt;Désactivation de la fenêtre de dialogue &amp;ldquo;Commencez&amp;rdquo; avec Anydesk et Termux&lt;/h1&gt;&#xA;&lt;p&gt;En cours de construction&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second Doc</title>
+      <link>https://m-itconsult.github.io/fr/docs/deuxieme_doc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://m-itconsult.github.io/fr/docs/deuxieme_doc/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
