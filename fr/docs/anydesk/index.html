@@ -230,7 +230,103 @@
 
   <div class="post-content"><div>
         <h1 id="désactivation-de-la-fenêtre-de-dialogue-commencez-avec-anydesk-et-termux">Désactivation de la fenêtre de dialogue &ldquo;Commencez&rdquo; avec Anydesk et Termux<a href="#désactivation-de-la-fenêtre-de-dialogue-commencez-avec-anydesk-et-termux" class="hanchor" ariaLabel="Anchor">#</a> </h1>
-<p>En cours de construction</p>
+<blockquote>
+<ul>
+<li>Installation de l&rsquo;app et du pluging AD1
+<img src="/img/anydesk/Anydesk_1.png" alt="img">
+<img src="/img/anydesk/Anydesk_2.png" alt="img"></li>
+</ul>
+</blockquote>
+<hr>
+<blockquote>
+<ul>
+<li>Au lancement de l&rsquo;app
+<img src="/img/anydesk/Anydesk_3.png" alt="img">
+<img src="/img/anydesk/Anydesk_4.png" alt="img">
+<img src="/img/anydesk/Anydesk_5.png" alt="img">
+<img src="/img/anydesk/Anydesk_6.png" alt="img">
+<img src="/img/anydesk/Anydesk_7.png" alt="img">
+<img src="/img/anydesk/Anydesk_8.png" alt="img"></li>
+</ul>
+</blockquote>
+<blockquote>
+<ul>
+<li>Sur l’application Anydesk mettre un mot de passe dans le profil de permissions Accès
+Intégral qui se trouve dans Paramètres &gt; Sécurité &gt; Activer Autoriser un accès non
+surveillé et Créer un mot de passe &gt;
+<img src="/img/anydesk/Anydesk_9.png" alt="img">
+<img src="/img/anydesk/Anydesk_10.png" alt="img">
+<img src="/img/anydesk/Anydesk_11.png" alt="img">
+<img src="/img/anydesk/Anydesk_12.png" alt="img"></li>
+</ul>
+</blockquote>
+<blockquote>
+<ul>
+<li>Installation de l&rsquo;app Termux
+<img src="/img/anydesk/Anydesk_13.png" alt="img"></li>
+</ul>
+</blockquote>
+<hr>
+<blockquote>
+<ul>
+<li>Activation du mode développeur en appuyant plusieurs fois sur le numéro de version
+<img src="/img/anydesk/Anydesk_14.png" alt="img">
+<img src="/img/anydesk/Anydesk_15.png" alt="img"></li>
+</ul>
+</blockquote>
+<hr>
+<blockquote>
+<ul>
+<li>Activation du Débogage sans fil
+<img src="/img/anydesk/Anydesk_16.png" alt="img">
+<img src="/img/anydesk/Anydesk_17.png" alt="img"></li>
+</ul>
+</blockquote>
+<hr>
+<blockquote>
+<ul>
+<li>Split des écrans avec l&rsquo;app Termux et les paramètres de la tablette
+<img src="/img/anydesk/Anydesk_18.png" alt="img"></li>
+</ul>
+</blockquote>
+<hr>
+<blockquote>
+<ul>
+<li>Si l&rsquo;option n&rsquo;est pas disponible, il faudra l&rsquo;activer dans les options de développement
+<img src="/img/anydesk/Anydesk_19.png" alt="img"></li>
+</ul>
+</blockquote>
+<hr>
+<ul>
+<li>Sur l&rsquo;app Termux faite une mise à jour des packages avec cette commande &gt;</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">apt update <span class="o">&amp;&amp;</span> apt full-upgrade -y
+</span></span></code></pre></div><ul>
+<li>Installer le package android-tools avec la commande &gt;</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">pkg install android-tools -y
+</span></span></code></pre></div><blockquote>
+<ul>
+<li>Appuyer sur &ldquo;Associer l&rsquo;appareil avec un code d&rsquo;association&rdquo;
+<img src="/img/anydesk/Anydesk_20.png" alt="img">
+<img src="/img/anydesk/Anydesk_21.png" alt="img"></li>
+</ul>
+</blockquote>
+<hr>
+<ul>
+<li>Revenir sur la fenêtre de l’application Termux et taper la commande suivante &gt;</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">adb pair localhost:Port
+</span></span><span class="line"><span class="cl">Enter pairing code: Wi-Fi pairing code
+</span></span><span class="line"><span class="cl">Successfully...
+</span></span></code></pre></div><ul>
+<li>Puis taper la commande suivante &gt;</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">adb connect localhost:Port#
+</span></span></code></pre></div><p><img src="/img/anydesk/Anydesk_22.png" alt="img"></p>
+<ul>
+<li>Une fois la commande effectué, vous pouvez désactiver le mode Développeur de la tablette.</li>
+</ul>
 
       </div></div>
 
