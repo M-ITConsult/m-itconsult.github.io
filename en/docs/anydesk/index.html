@@ -230,6 +230,105 @@
 
   <div class="post-content"><div>
         <h1 id="disable-screen-recording-dialog-with-anydesk-and-termux">Disable Screen Recording Dialog with Anydesk and Termux<a href="#disable-screen-recording-dialog-with-anydesk-and-termux" class="hanchor" ariaLabel="Anchor">#</a> </h1>
+<blockquote>
+<ul>
+<li>Install the app and pluging AD1
+<img src="/img/anydesk/Anydesk_1.png" alt="img">
+<img src="/img/anydesk/Anydesk_2.png" alt="img"></li>
+</ul>
+</blockquote>
+<hr>
+<blockquote>
+<ul>
+<li>Launch the app
+<img src="/img/anydesk/Anydesk_3.png" alt="img">
+<img src="/img/anydesk/Anydesk_4.png" alt="img">
+<img src="/img/anydesk/Anydesk_5.png" alt="img">
+<img src="/img/anydesk/Anydesk_6.png" alt="img">
+<img src="/img/anydesk/Anydesk_7.png" alt="img">
+<img src="/img/anydesk/Anydesk_8.png" alt="img"></li>
+</ul>
+</blockquote>
+<blockquote>
+<ul>
+<li>On the settings&gt; permissions&gt; permission profiles&gt; create a profile, check all the boxes and create a password</li>
+</ul>
+</blockquote>
+<p><img src="/img/anydesk/Anydesk_9.png" alt="img">
+<img src="/img/anydesk/Anydesk_10.png" alt="img">
+<img src="/img/anydesk/Anydesk_11.png" alt="img">
+<img src="/img/anydesk/Anydesk_12.png" alt="img"></p>
+<blockquote>
+<ul>
+<li>Install the app Termux
+<img src="/img/anydesk/Anydesk_13.png" alt="img"></li>
+</ul>
+</blockquote>
+<hr>
+<blockquote>
+<ul>
+<li>To activate Developper mode click many times on the build number
+<img src="/img/anydesk/Anydesk_14.png" alt="img">
+<img src="/img/anydesk/Anydesk_15.png" alt="img"></li>
+</ul>
+</blockquote>
+<hr>
+<blockquote>
+<ul>
+<li>Activate Wireless debugging
+<img src="/img/anydesk/Anydesk_16.png" alt="img">
+<img src="/img/anydesk/Anydesk_17.png" alt="img"></li>
+</ul>
+</blockquote>
+<hr>
+<blockquote>
+<ul>
+<li>Split the screens with termux app and settings
+<img src="/img/anydesk/Anydesk_18.png" alt="img"></li>
+</ul>
+</blockquote>
+<hr>
+<blockquote>
+<ul>
+<li>If this option is not available, activate Force activities to be resizable in the Developer options
+<img src="/img/anydesk/Anydesk_19.png" alt="img"></li>
+</ul>
+</blockquote>
+<hr>
+<ul>
+<li>On Termux update the packages with this command &gt;</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">apt update <span class="o">&amp;&amp;</span> apt full-upgrade -y
+</span></span></code></pre></div><ul>
+<li>Install the android-tools package &gt;</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">pkg install android-tools -y
+</span></span></code></pre></div><blockquote>
+<ul>
+<li>Push on the &ldquo;Pair device with parring code&rdquo;
+<img src="/img/anydesk/Anydesk_20.png" alt="img">
+<img src="/img/anydesk/Anydesk_21.png" alt="img"></li>
+</ul>
+</blockquote>
+<hr>
+<ul>
+<li>On the Termux screen, enter the command &gt;</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">adb pair localhost:Port
+</span></span><span class="line"><span class="cl">Enter pairing code: Wi-Fi pairing code
+</span></span><span class="line"><span class="cl">Successfully...
+</span></span></code></pre></div><ul>
+<li>Then enter the command &gt;</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">adb connect localhost:Port#
+</span></span></code></pre></div><p><img src="/img/anydesk/Anydesk_22.png" alt="img"></p>
+<ul>
+<li>And the final command &gt;</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">adb shell appops <span class="nb">set</span> com.anydesk.anydeskandroid PROJECT_MEDIA allow
+</span></span></code></pre></div><ul>
+<li>You can desactivated the developer mode after that.</li>
+</ul>
 
       </div></div>
 
