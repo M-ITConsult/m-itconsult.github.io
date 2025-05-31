@@ -6,14 +6,14 @@
     <description>Recent content in Posts on M-ITConsult</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 28 May 2025 20:26:41 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 12:21:36 +0200</lastBuildDate>
     <atom:link href="https://m-itconsult.github.io/fr/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://m-itconsult.github.io/fr/posts/test/</link>
-      <pubDate>Wed, 28 May 2025 20:26:41 +0200</pubDate>
-      <guid>https://m-itconsult.github.io/fr/posts/test/</guid>
-      <description></description>
+      <title>Bienvenue</title>
+      <link>https://m-itconsult.github.io/fr/posts/welcome/</link>
+      <pubDate>Sat, 31 May 2025 12:21:36 +0200</pubDate>
+      <guid>https://m-itconsult.github.io/fr/posts/welcome/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Pour l&amp;rsquo;instant, il y a une doc, des commandes linux simples et des outils&lt;/li&gt;&#xA;&lt;li&gt;Prenez le temps de regarder mes projets 😃&lt;/li&gt;&#xA;&lt;li&gt;Envie d&amp;rsquo;en savoir plus sur &amp;gt; &lt;a href=&#34;https://m-itconsult.github.io/fr/apropos&#34;&gt;A Propos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Enjoy!😎&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

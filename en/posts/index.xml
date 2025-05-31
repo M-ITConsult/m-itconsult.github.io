@@ -6,14 +6,14 @@
     <description>Recent content in Posts on M-ITConsult</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 May 2025 20:26:41 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 12:21:36 +0200</lastBuildDate>
     <atom:link href="https://m-itconsult.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://m-itconsult.github.io/en/posts/test/</link>
-      <pubDate>Wed, 28 May 2025 20:26:41 +0200</pubDate>
-      <guid>https://m-itconsult.github.io/en/posts/test/</guid>
-      <description></description>
+      <title>Welcome</title>
+      <link>https://m-itconsult.github.io/en/posts/welcome/</link>
+      <pubDate>Sat, 31 May 2025 12:21:36 +0200</pubDate>
+      <guid>https://m-itconsult.github.io/en/posts/welcome/</guid>
+      <description>&lt;p&gt;This website as a purpose to help each others to have a solution for anything about IT.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;For the moment, there are a doc, simples linux command and tools&lt;/li&gt;&#xA;&lt;li&gt;Take a time for watch my projects &amp;#x1f603;&lt;/li&gt;&#xA;&lt;li&gt;You need more about me&amp;gt; &lt;a href=&#34;https://m-itconsult.github.io/en/about&#34;&gt;About&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Enjoy!&amp;#x1f60e;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
