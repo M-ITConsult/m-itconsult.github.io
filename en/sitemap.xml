@@ -2,123 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://m-itconsult.github.io/en/</loc>
     <lastmod>2025-05-31T12:21:36+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/"
+                href="https://m-itconsult.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://m-itconsult.github.io/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
+    <loc>https://m-itconsult.github.io/en/posts/</loc>
     <lastmod>2025-05-31T12:21:36+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/posts/"
+                href="https://m-itconsult.github.io/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/"
+                href="https://m-itconsult.github.io/en/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/welcome/</loc>
+    <loc>https://m-itconsult.github.io/en/posts/welcome/</loc>
     <lastmod>2025-05-31T12:21:36+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/posts/welcome/"
+                href="https://m-itconsult.github.io/fr/posts/welcome/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/welcome/"
+                href="https://m-itconsult.github.io/en/posts/welcome/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>https://m-itconsult.github.io/en/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/docs/anydesk/</loc>
+    <loc>https://m-itconsult.github.io/en/docs/anydesk/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/docs/anydesk/"
+                href="https://m-itconsult.github.io/fr/docs/anydesk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/docs/anydesk/"
+                href="https://m-itconsult.github.io/en/docs/anydesk/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://m-itconsult.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/categories/"
+                href="https://m-itconsult.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://m-itconsult.github.io/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/certifications/</loc>
+    <loc>https://m-itconsult.github.io/en/certifications/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/certifications/"
+                href="https://m-itconsult.github.io/fr/certifications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/certifications/"
+                href="https://m-itconsult.github.io/en/certifications/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/youtube_channels/davidbombal/</loc>
+    <loc>https://m-itconsult.github.io/en/youtube_channels/davidbombal/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/docs/</loc>
+    <loc>https://m-itconsult.github.io/en/docs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/docs/"
+                href="https://m-itconsult.github.io/fr/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/docs/"
+                href="https://m-itconsult.github.io/en/docs/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/projects/linux/</loc>
+    <loc>https://m-itconsult.github.io/en/projects/linux/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/projects/mac/</loc>
+    <loc>https://m-itconsult.github.io/en/projects/mac/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/youtube_channels/networkchuck/</loc>
+    <loc>https://m-itconsult.github.io/en/youtube_channels/networkchuck/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/projects/network/</loc>
+    <loc>https://m-itconsult.github.io/en/projects/network/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/projects/</loc>
+    <loc>https://m-itconsult.github.io/en/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/docs/second_doc/</loc>
+    <loc>https://m-itconsult.github.io/en/docs/second_doc/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://m-itconsult.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/tags/"
+                href="https://m-itconsult.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://m-itconsult.github.io/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/projects/windows/</loc>
+    <loc>https://m-itconsult.github.io/en/projects/windows/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/youtube_channels/</loc>
+    <loc>https://m-itconsult.github.io/en/youtube_channels/</loc>
   </url>
 </urlset>
