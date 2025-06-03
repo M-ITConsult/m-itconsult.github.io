@@ -259,6 +259,12 @@
 </span></span><span class="line"><span class="cl"><span class="c1"># Show the system log messages in a concise format</span>
 </span></span><span class="line"><span class="cl">journalctl -u systemd
 </span></span></code></pre></div><hr>
+<h3 id="disk-space-full">Disk Space Full?<a href="#disk-space-full" class="hanchor" ariaLabel="Anchor">#</a> </h3>
+<p>Check file system disk space usage</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">df -h
+</span></span></code></pre></div><p>Show largest subdirectories</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">du -sh * <span class="p">|</span> sort -nr <span class="p">|</span> head
+</span></span></code></pre></div><hr>
 <h1 id="linux-tools">Linux Tools<a href="#linux-tools" class="hanchor" ariaLabel="Anchor">#</a> </h1>
 <h3 id="ncdu">Ncdu<a href="#ncdu" class="hanchor" ariaLabel="Anchor">#</a> </h3>
 <p>ncdu is a disk usage analyzer and viewer that provides a detailed breakdown of disk usage on a Linux system. It is a command-line tool that offers a user-friendly interface for navigating and managing disk space.</p>
