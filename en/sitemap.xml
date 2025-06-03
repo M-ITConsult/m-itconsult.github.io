@@ -103,7 +103,17 @@
   </url><url>
     <loc>https://m-itconsult.github.io/en/projects/</loc>
   </url><url>
-    <loc>https://m-itconsult.github.io/en/docs/second_doc/</loc>
+    <loc>https://m-itconsult.github.io/en/docs/quicksupport/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://m-itconsult.github.io/fr/docs/quicksupport/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-itconsult.github.io/en/docs/quicksupport/"
+                />
   </url><url>
     <loc>https://m-itconsult.github.io/en/tags/</loc>
     <xhtml:link

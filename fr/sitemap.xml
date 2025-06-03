@@ -103,9 +103,19 @@
   </url><url>
     <loc>https://m-itconsult.github.io/fr/projets/</loc>
   </url><url>
-    <loc>https://m-itconsult.github.io/fr/projets/reseaux/</loc>
+    <loc>https://m-itconsult.github.io/fr/docs/quicksupport/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-itconsult.github.io/en/docs/quicksupport/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://m-itconsult.github.io/fr/docs/quicksupport/"
+                />
   </url><url>
-    <loc>https://m-itconsult.github.io/fr/docs/deuxieme_doc/</loc>
+    <loc>https://m-itconsult.github.io/fr/projets/reseaux/</loc>
   </url><url>
     <loc>https://m-itconsult.github.io/fr/tags/</loc>
     <xhtml:link
