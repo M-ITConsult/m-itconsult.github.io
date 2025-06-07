@@ -6,8 +6,15 @@
     <description>Recent content in Posts on M-IT Consult</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 31 May 2025 12:21:36 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 11:20:39 +0200</lastBuildDate>
     <atom:link href="https://m-itconsult.github.io/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distrowatch</title>
+      <link>https://m-itconsult.github.io/fr/posts/distrowatch/</link>
+      <pubDate>Sat, 07 Jun 2025 11:20:39 +0200</pubDate>
+      <guid>https://m-itconsult.github.io/fr/posts/distrowatch/</guid>
+      <description>&lt;p&gt;DistroWatch est un site web qui fournit des nouvelles, des pages de distribution, des classements et d&amp;rsquo;autres informations générales sur diverses distributions Linux ainsi que sur d&amp;rsquo;autres systèmes d&amp;rsquo;exploitation de type Unix en logiciel libre/open source. Il contient aujourd&amp;rsquo;hui des informations sur plusieurs centaines de distributions et quelques centaines de distributions qualifiées d&amp;rsquo;actives.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://distrowatch.com/&#34;&gt;Distrowatch&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Bienvenue</title>
       <link>https://m-itconsult.github.io/fr/posts/welcome/</link>
