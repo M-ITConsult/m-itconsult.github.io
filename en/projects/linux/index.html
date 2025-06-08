@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   
-    <title>Linux:penguin: :: M-IT Consult</title>
+    <title>Linux :penguin:  :: M-IT Consult</title>
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -72,7 +72,7 @@
 
 <meta property="og:locale" content="en" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Linux:penguin:">
+<meta property="og:title" content="Linux :penguin: ">
 <meta property="og:description" content="The real world of the OpenSource" />
 <meta property="og:url" content="https://m-itconsult.github.io/en/projects/linux/" />
 <meta property="og:site_name" content="M-IT Consult" />
@@ -226,7 +226,7 @@
     
 <article class="post">
   <h1 class="post-title">
-    <a href="https://m-itconsult.github.io/en/projects/linux/">Linux&#x1f427;</a>
+    <a href="https://m-itconsult.github.io/en/projects/linux/">Linux &#x1f427;</a>
   </h1>
   <div class="post-meta"></div>
 
@@ -237,7 +237,23 @@
   
 
   <div class="post-content"><div>
-        <h1 id="linux-command">Linux command<a href="#linux-command" class="hanchor" ariaLabel="Anchor">#</a> </h1>
+        <h1 id="linux-script">Linux Script<a href="#linux-script" class="hanchor" ariaLabel="Anchor">#</a> </h1>
+<hr>
+<h3 id="launch-update-command-with-a-bash-script">Launch update command with a bash script<a href="#launch-update-command-with-a-bash-script" class="hanchor" ariaLabel="Anchor">#</a> </h3>
+<p>How to update easly your linux with this bash script&gt;</p>
+<p>First create a .sh file&gt;</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo vi update.sh
+</span></span></code></pre></div><p>Second modify the file and insert this command, that depend linux your have, by example for Fedora linux&gt;</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo dnf upgrade --refresh -y <span class="o">&amp;&amp;</span> sudo dnf autoremove -y
+</span></span></code></pre></div><p>For Debian&gt;</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo apt update <span class="o">&amp;&amp;</span> sudo apt full-upgrade -y
+</span></span></code></pre></div><p>Save the file and enter this command&gt;</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo chmod +x update.sh
+</span></span></code></pre></div><p>And for launch the script&gt;</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">./update.sh
+</span></span></code></pre></div><p>And that&rsquo;s it &#x1f603;</p>
+<hr>
+<h1 id="linux-command">Linux command<a href="#linux-command" class="hanchor" ariaLabel="Anchor">#</a> </h1>
 <hr>
 <h3 id="journalctl">Journalctl<a href="#journalctl" class="hanchor" ariaLabel="Anchor">#</a> </h3>
 <p>journalctl is a command-line tool for Linux systems that allows users to view and manage system log messages stored in the systemd journal. It provides a powerful way to monitor and troubleshoot system issues.</p>
