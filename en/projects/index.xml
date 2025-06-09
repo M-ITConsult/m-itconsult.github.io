@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://m-itconsult.github.io/en/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cybersecurity:lock:</title>
+      <link>https://m-itconsult.github.io/en/projects/cybersec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://m-itconsult.github.io/en/projects/cybersec/</guid>
+      <description>&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;&#xA;&lt;h2 id=&#34;bitwarden&#34;&gt;Bitwarden&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://m-itconsult.github.io/img/icons8-bitwarden-96.png&#34; alt=&#34;shield&#34;&gt;&#xA;Bitwarden is a free and open-source password manager that helps users securely store and manage their login credentials, encryption keys, and other sensitive data. It offers advanced security features, including end-to-end encryption, two-factor authentication, and zero-knowledge proof, ensuring that only the user has access to their stored information&lt;/p&gt;&#xA;&lt;p&gt;You can create an account for free&amp;gt; &lt;a href=&#34;https://bitwarden.com/go/start-free/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Install the extension on your navigator&amp;gt; &lt;a href=&#34;https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Now you can store your passwords, passkeys and sensitive information in an encrypted vault&amp;#x1f510;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Linux:penguin:</title>
       <link>https://m-itconsult.github.io/en/projects/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
