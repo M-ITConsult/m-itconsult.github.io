@@ -6,8 +6,15 @@
     <description>Recent content in Posts on M-IT Consult</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 07 Jun 2025 11:20:39 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 09:45:24 +0200</lastBuildDate>
     <atom:link href="https://m-itconsult.github.io/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigateurs Web</title>
+      <link>https://m-itconsult.github.io/fr/posts/navigateurs/</link>
+      <pubDate>Thu, 12 Jun 2025 09:45:24 +0200</pubDate>
+      <guid>https://m-itconsult.github.io/fr/posts/navigateurs/</guid>
+      <description>&lt;h1 id=&#34;mon-top-7-des-navigateurs-web-en-2025&#34;&gt;Mon top 7 des navigateurs web en 2025&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;brave&#34;&gt;Brave&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Brave est un navigateur web rapide, sécurisé et privé qui bloque les publicités et les traqueurs par défaut. Il a été fondé par Brendan Eich, cofondateur de Mozilla, et est disponible pour Windows, macOS et Linux.&#xA;&lt;a href=&#34;https://brave.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brave&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;librewolf&#34;&gt;Librewolf&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Librewolf est un navigateur web libre et open-source basé sur le code de Firefox. Il a été créé comme une fourche du navigateur Firefox, en mettant l&amp;rsquo;accent sur la liberté de l&amp;rsquo;utilisateur et la sécurité en ligne.&#xA;&lt;a href=&#34;https://librewolf.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Librewolf&lt;/a&gt; Windows, Android, macOS, Linux&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Distrowatch</title>
       <link>https://m-itconsult.github.io/fr/posts/distrowatch/</link>
@@ -17,9 +24,9 @@
     </item>
     <item>
       <title>Bienvenue</title>
-      <link>https://m-itconsult.github.io/fr/posts/welcome/</link>
+      <link>https://m-itconsult.github.io/fr/posts/bienvenue/</link>
       <pubDate>Sat, 31 May 2025 12:21:36 +0200</pubDate>
-      <guid>https://m-itconsult.github.io/fr/posts/welcome/</guid>
+      <guid>https://m-itconsult.github.io/fr/posts/bienvenue/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Pour l&amp;rsquo;instant, il y a une doc, des commandes linux simples et des outils&lt;/li&gt;&#xA;&lt;li&gt;Prenez le temps de regarder mes projets 😃&lt;/li&gt;&#xA;&lt;li&gt;Envie d&amp;rsquo;en savoir plus sur &amp;gt; &lt;a href=&#34;https://m-itconsult.github.io/fr/apropos&#34;&gt;A Propos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Enjoy!😎&lt;/p&gt;</description>
     </item>
   </channel>

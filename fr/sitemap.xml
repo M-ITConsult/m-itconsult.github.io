@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://m-itconsult.github.io/fr/</loc>
-    <lastmod>2025-06-07T11:20:39+02:00</lastmod>
+    <lastmod>2025-06-12T09:45:24+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,22 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="https://m-itconsult.github.io/fr/"
+                />
+  </url><url>
+    <loc>https://m-itconsult.github.io/fr/posts/navigateurs/</loc>
+    <lastmod>2025-06-12T09:45:24+02:00</lastmod>
+  </url><url>
+    <loc>https://m-itconsult.github.io/fr/posts/</loc>
+    <lastmod>2025-06-12T09:45:24+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-itconsult.github.io/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://m-itconsult.github.io/fr/posts/"
                 />
   </url><url>
     <loc>https://m-itconsult.github.io/fr/posts/distrowatch/</loc>
@@ -28,31 +44,8 @@
                 href="https://m-itconsult.github.io/fr/posts/distrowatch/"
                 />
   </url><url>
-    <loc>https://m-itconsult.github.io/fr/posts/</loc>
-    <lastmod>2025-06-07T11:20:39+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://m-itconsult.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/posts/"
-                />
-  </url><url>
-    <loc>https://m-itconsult.github.io/fr/posts/welcome/</loc>
+    <loc>https://m-itconsult.github.io/fr/posts/bienvenue/</loc>
     <lastmod>2025-05-31T12:21:36+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://m-itconsult.github.io/en/posts/welcome/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/posts/welcome/"
-                />
   </url><url>
     <loc>https://m-itconsult.github.io/fr/apropos/</loc>
   </url><url>

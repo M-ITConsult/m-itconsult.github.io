@@ -6,8 +6,15 @@
     <description>Recent content on M-IT Consult</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Jun 2025 11:20:39 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 09:45:24 +0200</lastBuildDate>
     <atom:link href="https://m-itconsult.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Browsers</title>
+      <link>https://m-itconsult.github.io/en/posts/browsers/</link>
+      <pubDate>Thu, 12 Jun 2025 09:45:24 +0200</pubDate>
+      <guid>https://m-itconsult.github.io/en/posts/browsers/</guid>
+      <description>&lt;h1 id=&#34;my-top-7-web-browsers-in-2025&#34;&gt;My Top 7 Web Browsers in 2025&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;brave&#34;&gt;Brave&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Brave is a fast, secure, and private web browser that blocks ads and trackers by default. It was founded by Brendan Eich, the co-founder of Mozilla, and is available for Windows, macOS, and Linux.&#xA;&lt;a href=&#34;https://brave.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brave&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;librewolf&#34;&gt;Librewolf&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Librewolf is a free and open-source web browser based on the Firefox codebase. It was created as a fork of the Firefox browser, with a focus on user freedom and online security.&#xA;&lt;a href=&#34;https://librewolf.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Librewolf&lt;/a&gt; Windows, Android, macOS, Linux&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Distrowatch</title>
       <link>https://m-itconsult.github.io/en/posts/distrowatch/</link>
