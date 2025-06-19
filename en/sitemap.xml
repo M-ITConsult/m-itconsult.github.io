@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://m-itconsult.github.io/en/</loc>
-    <lastmod>2025-06-14T17:31:36+02:00</lastmod>
+    <lastmod>2025-06-19T21:14:58+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -15,11 +15,21 @@
                 href="https://m-itconsult.github.io/en/"
                 />
   </url><url>
-    <loc>https://m-itconsult.github.io/en/posts/ai/</loc>
-    <lastmod>2025-06-14T17:31:36+02:00</lastmod>
+    <loc>https://m-itconsult.github.io/en/posts/neko/</loc>
+    <lastmod>2025-06-19T21:14:58+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://m-itconsult.github.io/fr/posts/neko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-itconsult.github.io/en/posts/neko/"
+                />
   </url><url>
     <loc>https://m-itconsult.github.io/en/posts/</loc>
-    <lastmod>2025-06-14T17:31:36+02:00</lastmod>
+    <lastmod>2025-06-19T21:14:58+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -30,6 +40,9 @@
                 hreflang="en"
                 href="https://m-itconsult.github.io/en/posts/"
                 />
+  </url><url>
+    <loc>https://m-itconsult.github.io/en/posts/ai/</loc>
+    <lastmod>2025-06-14T17:31:36+02:00</lastmod>
   </url><url>
     <loc>https://m-itconsult.github.io/en/posts/browsers/</loc>
     <lastmod>2025-06-12T09:45:24+02:00</lastmod>

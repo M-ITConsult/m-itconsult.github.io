@@ -6,8 +6,15 @@
     <description>Recent content in Posts on M-IT Consult</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 14 Jun 2025 17:31:36 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 21:14:58 +0200</lastBuildDate>
     <atom:link href="https://m-itconsult.github.io/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neko</title>
+      <link>https://m-itconsult.github.io/fr/posts/neko/</link>
+      <pubDate>Thu, 19 Jun 2025 21:14:58 +0200</pubDate>
+      <guid>https://m-itconsult.github.io/fr/posts/neko/</guid>
+      <description>&lt;h1 id=&#34;neko&#34;&gt;Neko&lt;/h1&gt;&#xA;&lt;p&gt;Neko vous permet d&amp;rsquo;exécuter un navigateur entièrement fonctionnel dans un environnement virtuel, fournissant un accès Internet sécurisé et privé depuis n&amp;rsquo;importe où. Il est parfait pour les développeurs, les utilisateurs soucieux de leur vie privée et tous ceux qui ont besoin d&amp;rsquo;un navigateur virtuel.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://neko.m1k1o.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neko Site&lt;/a&gt;&#xA;&lt;a href=&#34;https://neko.m1k1o.net/docs/v3/introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/m1k1o/neko&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://neko.m1k1o.net/img/intro.gif&#34; alt=&#34;neko&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>IA</title>
       <link>https://m-itconsult.github.io/fr/posts/ia/</link>
