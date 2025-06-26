@@ -6,8 +6,15 @@
     <description>Recent content in Posts on M-IT Consult</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Jun 2025 21:14:58 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 20:49:53 +0200</lastBuildDate>
     <atom:link href="https://m-itconsult.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Distributions</title>
+      <link>https://m-itconsult.github.io/en/posts/disto/</link>
+      <pubDate>Thu, 26 Jun 2025 20:49:53 +0200</pubDate>
+      <guid>https://m-itconsult.github.io/en/posts/disto/</guid>
+      <description>&lt;h1 id=&#34;top-7-linux-distributions&#34;&gt;Top 7 Linux Distributions&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Red Hat&#xA;Overview: Red Hat Enterprise Linux (RHEL) is a commercial Linux distribution developed by Red Hat, aimed at the corporate market. It is known for its stability, security, and support.&#xA;Target Audience: Businesses and enterprises that require a reliable and supported operating system.&#xA;Package Management: Uses RPM (Red Hat Package Manager) and YUM/DNF for package management.&#xA;&lt;a href=&#34;https://www.redhat.com/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RedHat&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Fedora&#xA;Overview: Fedora is a community-driven distribution sponsored by Red Hat. It serves as a testing ground for new technologies that may eventually be included in RHEL.&#xA;Target Audience: Developers and users who want the latest features and technologies in Linux.&#xA;Package Management: Also uses RPM and DNF for package management.&#xA;&lt;a href=&#34;https://www.fedoraproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fedora&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Neko</title>
       <link>https://m-itconsult.github.io/en/posts/neko/</link>

@@ -6,8 +6,15 @@
     <description>Recent content in Posts on M-IT Consult</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 19 Jun 2025 21:14:58 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 20:49:53 +0200</lastBuildDate>
     <atom:link href="https://m-itconsult.github.io/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distributions Linux</title>
+      <link>https://m-itconsult.github.io/fr/posts/disto/</link>
+      <pubDate>Thu, 26 Jun 2025 20:49:53 +0200</pubDate>
+      <guid>https://m-itconsult.github.io/fr/posts/disto/</guid>
+      <description>&lt;h1 id=&#34;top-7-distributions-linux&#34;&gt;Top 7 Distributions Linux&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Red Hat&#xA;Vue d&amp;rsquo;ensemble : Red Hat Enterprise Linux (RHEL) est une distribution Linux commerciale développée par Red Hat, destinée au marché des entreprises. Elle est réputée pour sa stabilité, sa sécurité et son assistance.&#xA;Public cible : Les entreprises qui ont besoin d&amp;rsquo;un système d&amp;rsquo;exploitation fiable et pris en charge.&#xA;Gestion des paquets : Utilise RPM (Red Hat Package Manager) et YUM/DNF pour la gestion des paquets.&#xA;&lt;a href=&#34;https://www.redhat.com/fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RedHat&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Neko</title>
       <link>https://m-itconsult.github.io/fr/posts/neko/</link>
