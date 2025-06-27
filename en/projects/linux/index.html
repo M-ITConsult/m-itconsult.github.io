@@ -263,6 +263,27 @@
 <hr>
 <h1 id="linux-command">Linux command<a href="#linux-command" class="hanchor" ariaLabel="Anchor">#</a> </h1>
 <hr>
+<h2 id="creating-a-bootable-usb-from-an-iso-file-in-linux">Creating a bootable USB from an ISO file in Linux<a href="#creating-a-bootable-usb-from-an-iso-file-in-linux" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<ol>
+<li>Prepare the USB Drive: Insert your USB drive and identify its device name using the command:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">lsblk
+</span></span></code></pre></div><ol start="2">
+<li>Unmount the USB Drive: If the USB drive is mounted, unmount it with:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo umount /dev/sdX1
+</span></span></code></pre></div><ol start="3">
+<li>Write the ISO to the USB: Use the dd command to create the bootable USB. Replace path/to/your.iso with the path to your ISO file:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo dd <span class="k">if</span><span class="o">=</span>path/to/your.iso <span class="nv">of</span><span class="o">=</span>/dev/sdX <span class="nv">bs</span><span class="o">=</span>4M <span class="nv">status</span><span class="o">=</span>progress
+</span></span></code></pre></div><p>Be very careful with the of parameter to avoid overwriting important data.</p>
+<ol start="4">
+<li>Sync and Eject: After the process completes, ensure all data is written to the USB with:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sync
+</span></span></code></pre></div><p>Then safely eject the USB drive:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo eject /dev/sdX
+</span></span></code></pre></div><hr>
 <h3 id="journalctl">Journalctl<a href="#journalctl" class="hanchor" ariaLabel="Anchor">#</a> </h3>
 <p>journalctl is a command-line tool for Linux systems that allows users to view and manage system log messages stored in the systemd journal. It provides a powerful way to monitor and troubleshoot system issues.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># View the most recent log messages</span>

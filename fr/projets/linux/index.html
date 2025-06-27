@@ -263,6 +263,27 @@
 <hr>
 <h1 id="commandes-linux">Commandes Linux<a href="#commandes-linux" class="hanchor" ariaLabel="Anchor">#</a> </h1>
 <hr>
+<h2 id="creating-a-bootable-usb-from-an-iso-file-in-linux">Creating a bootable USB from an ISO file in Linux<a href="#creating-a-bootable-usb-from-an-iso-file-in-linux" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<ol>
+<li>Préparez la clé USB : Insérez votre clé USB et identifiez son nom de périphérique à l&rsquo;aide de la commande :</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">lsblk
+</span></span></code></pre></div><ol start="2">
+<li>Démonter la clé USB : Si la clé USB est montée, démontez-la avec :</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo umount /dev/sdX1
+</span></span></code></pre></div><ol start="3">
+<li>Utilisez la commande dd pour créer une clé USB amorçable. Remplacez path/to/votre.iso par le chemin d&rsquo;accès à votre fichier ISO :</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo dd <span class="k">if</span><span class="o">=</span>path/to/your.iso <span class="nv">of</span><span class="o">=</span>/dev/sdX <span class="nv">bs</span><span class="o">=</span>4M <span class="nv">status</span><span class="o">=</span>progress
+</span></span></code></pre></div><p>Soyez très prudent avec le paramètre of pour éviter d&rsquo;écraser des données importantes.</p>
+<ol start="4">
+<li>Synchroniser et éjecter : Une fois le processus terminé, assurez-vous que toutes les données ont été écrites sur la clé USB :</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sync
+</span></span></code></pre></div><p>Ensuite, éjectez la clé USB en toute sécurité :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo eject /dev/sdX
+</span></span></code></pre></div><hr>
 <h3 id="journalctl">Journalctl<a href="#journalctl" class="hanchor" ariaLabel="Anchor">#</a> </h3>
 <p>journalctl est un outil de ligne de commande pour les systèmes Linux qui permet aux utilisateurs de visualiser et de gérer les messages du journal système stockés dans le journal systemd. Il constitue un moyen puissant de surveiller et de résoudre les problèmes du système.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># View the most recent log messages</span>
