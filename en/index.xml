@@ -6,8 +6,15 @@
     <description>Recent content on M-IT Consult</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Jun 2025 20:49:53 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 20:58:29 +0200</lastBuildDate>
     <atom:link href="https://m-itconsult.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convertx</title>
+      <link>https://m-itconsult.github.io/en/posts/convertx/</link>
+      <pubDate>Mon, 21 Jul 2025 20:58:29 +0200</pubDate>
+      <guid>https://m-itconsult.github.io/en/posts/convertx/</guid>
+      <description>&lt;p&gt;ConvertX is a self-hosted online file converter that supports over 1,000 different file formats. Designed for ease of use, it allows users to convert files between various formats without relying on third-party conversion websites. The application is built using TypeScript, Bun, and Elysia, making it a modern solution for file conversion needs.&lt;/p&gt;&#xA;&lt;p&gt;Key Features:&lt;/p&gt;&#xA;&lt;p&gt;Wide Format Support: ConvertX can handle a vast array of file types, making it versatile for different conversion tasks.&#xA;Batch Processing: Users can convert multiple files simultaneously, enhancing efficiency.&#xA;Password Protection: The application offers options for securing files during the conversion process.&#xA;User Accounts: It supports multiple user accounts, allowing for personalized settings and management.&#xA;Installation and Usage:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Linux Distributions</title>
       <link>https://m-itconsult.github.io/en/posts/disto/</link>
