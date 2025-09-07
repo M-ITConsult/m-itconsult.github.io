@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on M-IT Consult</title>
-    <link>http://localhost:1313/fr/posts/</link>
+    <link>https://m-itconsult.github.io/fr/posts/</link>
     <description>Recent content in Posts on M-IT Consult</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Mon, 21 Jul 2025 20:58:29 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://m-itconsult.github.io/fr/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Convertx</title>
-      <link>http://localhost:1313/fr/posts/convertx/</link>
+      <link>https://m-itconsult.github.io/fr/posts/convertx/</link>
       <pubDate>Mon, 21 Jul 2025 20:58:29 +0200</pubDate>
-      <guid>http://localhost:1313/fr/posts/convertx/</guid>
+      <guid>https://m-itconsult.github.io/fr/posts/convertx/</guid>
       <description>&lt;p&gt;ConvertX est un convertisseur de fichiers en ligne auto-hébergé qui prend en charge plus de 1 000 formats de fichiers différents. Conçu pour être facile à utiliser, il permet aux utilisateurs de convertir des fichiers entre différents formats sans dépendre de sites Web de conversion tiers. L&amp;rsquo;application est construite avec TypeScript, Bun et Elysia, ce qui en fait une solution moderne pour les besoins de conversion de fichiers.&lt;/p&gt;&#xA;&lt;p&gt;Caractéristiques principales :&lt;/p&gt;</description>
     </item>
     <item>
       <title>Distributions Linux</title>
-      <link>http://localhost:1313/fr/posts/disto/</link>
+      <link>https://m-itconsult.github.io/fr/posts/disto/</link>
       <pubDate>Thu, 26 Jun 2025 20:49:53 +0200</pubDate>
-      <guid>http://localhost:1313/fr/posts/disto/</guid>
+      <guid>https://m-itconsult.github.io/fr/posts/disto/</guid>
       <description>&lt;h1 id=&#34;top-7-distributions-linux&#34;&gt;Top 7 Distributions Linux&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Red Hat&#xA;Vue d&amp;rsquo;ensemble : Red Hat Enterprise Linux (RHEL) est une distribution Linux commerciale développée par Red Hat, destinée au marché des entreprises. Elle est réputée pour sa stabilité, sa sécurité et son assistance.&#xA;Public cible : Les entreprises qui ont besoin d&amp;rsquo;un système d&amp;rsquo;exploitation fiable et pris en charge.&#xA;Gestion des paquets : Utilise RPM (Red Hat Package Manager) et YUM/DNF pour la gestion des paquets.&#xA;&lt;a href=&#34;https://www.redhat.com/fr&#34;&gt;RedHat&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Neko</title>
-      <link>http://localhost:1313/fr/posts/neko/</link>
+      <link>https://m-itconsult.github.io/fr/posts/neko/</link>
       <pubDate>Thu, 19 Jun 2025 21:14:58 +0200</pubDate>
-      <guid>http://localhost:1313/fr/posts/neko/</guid>
+      <guid>https://m-itconsult.github.io/fr/posts/neko/</guid>
       <description>&lt;h1 id=&#34;neko&#34;&gt;Neko&lt;/h1&gt;&#xA;&lt;p&gt;Neko vous permet d&amp;rsquo;exécuter un navigateur entièrement fonctionnel dans un environnement virtuel, fournissant un accès Internet sécurisé et privé depuis n&amp;rsquo;importe où. Il est parfait pour les développeurs, les utilisateurs soucieux de leur vie privée et tous ceux qui ont besoin d&amp;rsquo;un navigateur virtuel.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://neko.m1k1o.net/&#34;&gt;Site Neko&lt;/a&gt;&#xA;&lt;a href=&#34;https://neko.m1k1o.net/docs/v3/introduction&#34;&gt;Documentation&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/m1k1o/neko&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://neko.m1k1o.net/img/intro.gif&#34; alt=&#34;neko&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>IA</title>
-      <link>http://localhost:1313/fr/posts/ia/</link>
+      <link>https://m-itconsult.github.io/fr/posts/ia/</link>
       <pubDate>Sat, 14 Jun 2025 17:31:36 +0200</pubDate>
-      <guid>http://localhost:1313/fr/posts/ia/</guid>
+      <guid>https://m-itconsult.github.io/fr/posts/ia/</guid>
       <description>&lt;h1 id=&#34;duckduckgo-intelligence-artificielle&#34;&gt;DuckDuckGo Intelligence Artificielle&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://duckduckgo.com/?q=DuckDuckGo&amp;#43;AI&amp;#43;Chat&amp;amp;ia=chat&amp;amp;duckai=1&#34;&gt;Duck.ai&lt;/a&gt; est une plateforme d&amp;rsquo;intelligence artificielle innovante conçue pour améliorer les expériences des utilisateurs grâce à l&amp;rsquo;automatisation intelligente et aux interactions personnalisées. Elle s&amp;rsquo;appuie sur des algorithmes avancés d&amp;rsquo;apprentissage automatique pour fournir des solutions dans divers domaines, notamment le service client, l&amp;rsquo;analyse de données et la génération de contenu. En se concentrant sur la confidentialité des utilisateurs et la sécurité des données, Duck.ai vise à fournir des services efficaces et fiables basés sur l&amp;rsquo;IA tout en garantissant une expérience transparente et attrayante pour ses utilisateurs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Navigateurs Web</title>
-      <link>http://localhost:1313/fr/posts/navigateurs/</link>
+      <link>https://m-itconsult.github.io/fr/posts/navigateurs/</link>
       <pubDate>Thu, 12 Jun 2025 09:45:24 +0200</pubDate>
-      <guid>http://localhost:1313/fr/posts/navigateurs/</guid>
+      <guid>https://m-itconsult.github.io/fr/posts/navigateurs/</guid>
       <description>&lt;h1 id=&#34;mon-top-7-des-navigateurs-web-en-2025&#34;&gt;Mon top 7 des navigateurs web en 2025&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;brave&#34;&gt;Brave&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Brave est un navigateur web rapide, sécurisé et privé qui bloque les publicités et les traqueurs par défaut. Il a été fondé par Brendan Eich, cofondateur de Mozilla, et est disponible pour Windows, macOS et Linux.&#xA;&lt;a href=&#34;https://brave.com/&#34;&gt;Brave&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;h2 id=&#34;librewolf&#34;&gt;Librewolf&lt;/h2&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Librewolf est un navigateur web libre et open-source basé sur le code de Firefox. Il a été créé comme une fourche du navigateur Firefox, en mettant l&amp;rsquo;accent sur la liberté de l&amp;rsquo;utilisateur et la sécurité en ligne.&#xA;&lt;a href=&#34;https://librewolf.net/&#34;&gt;Librewolf&lt;/a&gt; Windows, Android, macOS, Linux&lt;/p&gt;</description>
     </item>
     <item>
       <title>Distrowatch</title>
-      <link>http://localhost:1313/fr/posts/distrowatch/</link>
+      <link>https://m-itconsult.github.io/fr/posts/distrowatch/</link>
       <pubDate>Sat, 07 Jun 2025 11:20:39 +0200</pubDate>
-      <guid>http://localhost:1313/fr/posts/distrowatch/</guid>
+      <guid>https://m-itconsult.github.io/fr/posts/distrowatch/</guid>
       <description>&lt;p&gt;DistroWatch est un site web qui fournit des nouvelles, des pages de distribution, des classements et d&amp;rsquo;autres informations générales sur diverses distributions Linux ainsi que sur d&amp;rsquo;autres systèmes d&amp;rsquo;exploitation de type Unix en logiciel libre/open source. Il contient aujourd&amp;rsquo;hui des informations sur plusieurs centaines de distributions et quelques centaines de distributions qualifiées d&amp;rsquo;actives.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://distrowatch.com/&#34;&gt;Distrowatch&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bienvenue</title>
-      <link>http://localhost:1313/fr/posts/bienvenue/</link>
+      <link>https://m-itconsult.github.io/fr/posts/bienvenue/</link>
       <pubDate>Sat, 31 May 2025 12:21:36 +0200</pubDate>
-      <guid>http://localhost:1313/fr/posts/bienvenue/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Pour l&amp;rsquo;instant, il y a une doc, des commandes linux simples et des outils&lt;/li&gt;&#xA;&lt;li&gt;Prenez le temps de regarder mes projets 😃&lt;/li&gt;&#xA;&lt;li&gt;Envie d&amp;rsquo;en savoir plus sur &amp;gt; &lt;a href=&#34;http://localhost:1313/fr/apropos&#34;&gt;A Propos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Enjoy!😎&lt;/p&gt;</description>
+      <guid>https://m-itconsult.github.io/fr/posts/bienvenue/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Pour l&amp;rsquo;instant, il y a une doc, des commandes linux simples et des outils&lt;/li&gt;&#xA;&lt;li&gt;Prenez le temps de regarder mes projets 😃&lt;/li&gt;&#xA;&lt;li&gt;Envie d&amp;rsquo;en savoir plus sur &amp;gt; &lt;a href=&#34;https://m-itconsult.github.io/fr/apropos&#34;&gt;A Propos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Enjoy!😎&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
