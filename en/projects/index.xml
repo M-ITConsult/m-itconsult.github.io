@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on M-IT Consult</title>
-    <link>https://m-itconsult.github.io/en/projects/</link>
+    <link>http://localhost:1313/en/projects/</link>
     <description>Recent content in Projects on M-IT Consult</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://m-itconsult.github.io/en/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cybersecurity:lock:</title>
-      <link>https://m-itconsult.github.io/en/projects/cybersec/</link>
+      <link>http://localhost:1313/en/projects/cybersec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://m-itconsult.github.io/en/projects/cybersec/</guid>
-      <description>&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;&#xA;&lt;h2 id=&#34;bitwarden&#34;&gt;Bitwarden&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://m-itconsult.github.io/img/icons8-bitwarden-96.png&#34; alt=&#34;shield&#34;&gt;&#xA;Bitwarden is a free and open-source password manager that helps users securely store and manage their login credentials, encryption keys, and other sensitive data. It offers advanced security features, including end-to-end encryption, two-factor authentication, and zero-knowledge proof, ensuring that only the user has access to their stored information&lt;/p&gt;&#xA;&lt;p&gt;You can create an account for free&amp;gt; &lt;a href=&#34;https://bitwarden.com/go/start-free/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Install the extension on your navigator&amp;gt; &lt;a href=&#34;https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Now you can store your passwords, passkeys and sensitive information in an encrypted vault&amp;#x1f510;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/projects/cybersec/</guid>
+      <description>&lt;h1 id=&#34;tools&#34;&gt;Tools&lt;/h1&gt;&#xA;&lt;h2 id=&#34;bitwarden&#34;&gt;Bitwarden&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/icons8-bitwarden-96.png&#34; alt=&#34;shield&#34;&gt;&#xA;Bitwarden is a free and open-source password manager that helps users securely store and manage their login credentials, encryption keys, and other sensitive data. It offers advanced security features, including end-to-end encryption, two-factor authentication, and zero-knowledge proof, ensuring that only the user has access to their stored information&lt;/p&gt;&#xA;&lt;p&gt;You can create an account for free&amp;gt; &lt;a href=&#34;https://bitwarden.com/go/start-free/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Install the extension on your navigator&amp;gt; &lt;a href=&#34;https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Now you can store your passwords, passkeys and sensitive information in an encrypted vault&amp;#x1f510;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Linux:penguin:</title>
-      <link>https://m-itconsult.github.io/en/projects/linux/</link>
+      <link>http://localhost:1313/en/projects/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://m-itconsult.github.io/en/projects/linux/</guid>
+      <guid>http://localhost:1313/en/projects/linux/</guid>
       <description>&lt;h1 id=&#34;linux-script&#34;&gt;Linux Script&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;launch-update-command-with-a-bash-script&#34;&gt;Launch update command with a bash script&lt;/h3&gt;&#xA;&lt;p&gt;How to update easly your linux with this bash script&amp;gt;&lt;/p&gt;&#xA;&lt;p&gt;First create a .sh file&amp;gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo vi update.sh&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Second modify the file and insert this command, that depend linux your have, by example for Fedora linux&amp;gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo dnf upgrade --refresh -y &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; sudo dnf autoremove -y&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;For Debian&amp;gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt update &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; sudo apt full-upgrade -y&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Save the file and enter this command&amp;gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mac:apple:</title>
-      <link>https://m-itconsult.github.io/en/projects/mac/</link>
+      <link>http://localhost:1313/en/projects/mac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://m-itconsult.github.io/en/projects/mac/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://m-itconsult.github.io/img/mac.gif&#34; alt=&#34;macos&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/projects/mac/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/mac.gif&#34; alt=&#34;macos&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Network🕸️</title>
-      <link>https://m-itconsult.github.io/en/projects/network/</link>
+      <link>http://localhost:1313/en/projects/network/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://m-itconsult.github.io/en/projects/network/</guid>
-      <description>&lt;h3 id=&#34;networking-exploration&#34;&gt;Networking Exploration&lt;/h3&gt;&#xA;&lt;p&gt;To trace the route to a distant network, the PC used must have a working connection to the internet&amp;hellip;&#xA;&lt;figure&gt;&lt;a href=&#34;https://github.com/M-ITConsult/networking_projects/tree/main/01_Network_Exploration&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://m-itconsult.github.io/img/network_exploration.jpg&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;ios&#34;&gt;IOS&lt;/h3&gt;&#xA;&lt;p&gt;In this activity, you will practice skills necessary for navigating the Cisco IOS&amp;hellip;&#xA;&lt;figure&gt;&lt;a href=&#34;https://github.com/M-ITConsult/networking_projects/tree/main/02_IOS&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://m-itconsult.github.io/img/IOS.jpg&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;protocols&#34;&gt;Protocols&lt;/h3&gt;&#xA;&lt;p&gt;This simulation activity is intended to provide a foundation for understanding the TCP/IP protocol suite&amp;hellip;&#xA;&lt;figure&gt;&lt;a href=&#34;https://github.com/M-ITConsult/networking_projects/tree/main/03_Protocols&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://m-itconsult.github.io/img/protocols.jpg&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;network-access&#34;&gt;Network Access&lt;/h3&gt;&#xA;&lt;p&gt;These projects demonstrates a basic network setup in Cisco Packet Tracer.&#xA;&lt;figure&gt;&lt;a href=&#34;https://github.com/M-ITConsult/networking_projects/tree/main/04_Network_Access&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://m-itconsult.github.io/img/network_access.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;final-project&#34;&gt;Final Project&lt;/h3&gt;&#xA;&lt;p&gt;This project is a network simulation created using Cisco Packet Tracer&amp;hellip;&#xA;&lt;figure&gt;&lt;a href=&#34;https://github.com/M-ITConsult/networking_projects/tree/main/Final_Project&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://m-itconsult.github.io/img/Final_Project.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/projects/network/</guid>
+      <description>&lt;h3 id=&#34;networking-exploration&#34;&gt;Networking Exploration&lt;/h3&gt;&#xA;&lt;p&gt;To trace the route to a distant network, the PC used must have a working connection to the internet&amp;hellip;&#xA;&lt;figure&gt;&lt;a href=&#34;https://github.com/M-ITConsult/networking_projects/tree/main/01_Network_Exploration&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/network_exploration.jpg&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;ios&#34;&gt;IOS&lt;/h3&gt;&#xA;&lt;p&gt;In this activity, you will practice skills necessary for navigating the Cisco IOS&amp;hellip;&#xA;&lt;figure&gt;&lt;a href=&#34;https://github.com/M-ITConsult/networking_projects/tree/main/02_IOS&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/IOS.jpg&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;protocols&#34;&gt;Protocols&lt;/h3&gt;&#xA;&lt;p&gt;This simulation activity is intended to provide a foundation for understanding the TCP/IP protocol suite&amp;hellip;&#xA;&lt;figure&gt;&lt;a href=&#34;https://github.com/M-ITConsult/networking_projects/tree/main/03_Protocols&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/protocols.jpg&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;network-access&#34;&gt;Network Access&lt;/h3&gt;&#xA;&lt;p&gt;These projects demonstrates a basic network setup in Cisco Packet Tracer.&#xA;&lt;figure&gt;&lt;a href=&#34;https://github.com/M-ITConsult/networking_projects/tree/main/04_Network_Access&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/network_access.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;final-project&#34;&gt;Final Project&lt;/h3&gt;&#xA;&lt;p&gt;This project is a network simulation created using Cisco Packet Tracer&amp;hellip;&#xA;&lt;figure&gt;&lt;a href=&#34;https://github.com/M-ITConsult/networking_projects/tree/main/Final_Project&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/Final_Project.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Windows:floppy_disk:</title>
-      <link>https://m-itconsult.github.io/en/projects/windows/</link>
+      <link>http://localhost:1313/en/projects/windows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://m-itconsult.github.io/en/projects/windows/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://m-itconsult.github.io/img/windows.gif&#34; alt=&#34;windows&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/projects/windows/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/windows.gif&#34; alt=&#34;windows&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
