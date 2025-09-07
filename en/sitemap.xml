@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://m-itconsult.github.io/en/</loc>
-    <lastmod>2025-07-21T20:58:29+02:00</lastmod>
+    <lastmod>2025-09-07T15:09:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -13,6 +13,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://m-itconsult.github.io/en/"
+                />
+  </url><url>
+    <loc>https://m-itconsult.github.io/en/posts/n8n/</loc>
+    <lastmod>2025-09-07T15:09:30+02:00</lastmod>
+  </url><url>
+    <loc>https://m-itconsult.github.io/en/posts/</loc>
+    <lastmod>2025-09-07T15:09:30+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="https://m-itconsult.github.io/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://m-itconsult.github.io/en/posts/"
                 />
   </url><url>
     <loc>https://m-itconsult.github.io/en/posts/convertx/</loc>
@@ -26,19 +42,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://m-itconsult.github.io/en/posts/convertx/"
-                />
-  </url><url>
-    <loc>https://m-itconsult.github.io/en/posts/</loc>
-    <lastmod>2025-07-21T20:58:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="https://m-itconsult.github.io/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://m-itconsult.github.io/en/posts/"
                 />
   </url><url>
     <loc>https://m-itconsult.github.io/en/posts/disto/</loc>

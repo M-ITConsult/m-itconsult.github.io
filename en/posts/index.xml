@@ -6,8 +6,15 @@
     <description>Recent content in Posts on M-IT Consult</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Jul 2025 20:58:29 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 15:09:30 +0200</lastBuildDate>
     <atom:link href="https://m-itconsult.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n8n</title>
+      <link>https://m-itconsult.github.io/en/posts/n8n/</link>
+      <pubDate>Sun, 07 Sep 2025 15:09:30 +0200</pubDate>
+      <guid>https://m-itconsult.github.io/en/posts/n8n/</guid>
+      <description>&lt;p&gt;Chat below&lt;/p&gt;&#xA;&lt;link href=&#34;https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xA;&lt;script type=&#34;module&#34;&gt;&#xA;&#x9;import { createChat } from &#39;https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js&#39;;&#xA;&lt;pre&gt;&lt;code&gt;createChat({&#xA;&#x9;webhookUrl: &#39;http://localhost:5678/webhook/aa7868fa-47bb-4824-abb6-3261f240173d/chat&#39;&#xA;});&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;&lt;/script&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Convertx</title>
       <link>https://m-itconsult.github.io/en/posts/convertx/</link>
